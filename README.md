@@ -1,1 +1,1 @@
-This repository includes the code for all versions of the simulations. It also includes published version of the MATLAB script which will show the code as well as any plots. Finally the Simulink files have also been provided.
+This repository includes the code for all versions of the simulations. It also includes published version of the MATLAB script which will show the code as well as any plots. The accompanying Simulink files are also included. A change log highlighting the changes between iterations is present and mirrors the information in the linked project.
